@@ -2,6 +2,9 @@
 
 The game "Smash of Legends" playables. That is, runnable jar's (runnable, packed, compressed java).
 
+Super Smash, League of Legends inspirert top-down combat.
+You choose a character and use its unique abilities to eliminate your enemies and conquer the battlefield.
+
 ## Getting Started
 
 ### Installing
