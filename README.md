@@ -32,8 +32,14 @@ In the clients, specify the IP-address of the server. *To find the ip-address*:
 
 ### Playing the game
 
-Play!
-How to will come
+First, queue up for 1v1 or 2v2, and wait for the other players connected to your server.
+
+#### Choose your character
+The characters have different streangths and weeknesses. They have three unique attacks at their disposal. They are:
+- *Frank*: The marksman. Specializes in long-range combat.
+- *King Skurk Two*: The hook. He is a short range, powerful dude, using his hook to catch foes at a distance.
+- *Brail*: The weird wizard. He is a medium ranged, 
+- *MagneT*: 
 
 ## Built With
 
