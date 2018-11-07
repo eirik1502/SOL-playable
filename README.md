@@ -38,8 +38,28 @@ First, queue up for 1v1 or 2v2, and wait for the other players connected to your
 The characters have different streangths and weeknesses. They have three unique attacks at their disposal. They are:
 - *Frank*: The marksman. Specializes in long-range combat.
 - *King Skurk Two*: The hook. He is a short range, powerful dude, using his hook to catch foes at a distance.
-- *Brail*: The weird wizard. He is a medium ranged, 
-- *MagneT*: 
+- *Brail*: The weird wizard. He is a medium ranged, wizard with chaotic attacks.
+- *MagneT*: The sniper. A Masai that snipes people with his spear. He also utilizes his inner animal roar.
+
+#### play the game
+
+Controls:
+- You control your characters movement with the keys: w, a, s, d.
+- Aim with the mouse pointer.
+- Perform different attacks with *left mouse button*, *right mouse button* and *space*
+
+Mechanics:
+- Attacks damage enemies and knocks them backwards.
+- How far backward they are knocked, depends on their current damage count, displayed on the screen.
+- If a character falls of the stage, they die.
+
+The goal of the game:
+- 1v1 mode: Kill the enemy 3 times (push the enemy off the field 3 times).
+- 2v2 mode: both characters on a team must be in the enemy base at the same time. If you die, you respawn at your base.
+
+## Code repo
+
+[Smash of Legends](https://github.com/haraldvinje/sol)
 
 ## Built With
 
