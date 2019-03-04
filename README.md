@@ -9,6 +9,7 @@ You choose a character and use its unique abilities to eliminate your enemies an
 
 ### Installing
 I just want the newest client (on windows):
+
 Open Powershell and paste the following (will save the client into a folder "sol_game" in your home directory)
 ```
 $dirName = "sol_game"
