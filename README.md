@@ -8,7 +8,7 @@ You choose a character and use its unique abilities to eliminate your enemies an
 ## Getting Started
 
 ### Installing
-I just want the newest client (on windows):
+#### Newest client on windows (fast):
 
 Open Powershell and paste the following (will save the client into a folder "sol_game" in your home directory)
 ```
@@ -20,6 +20,7 @@ mkdir $dirName
 Invoke-WebRequest -Uri $url -OutFile $output
 ```
 
+#### Otherwise:
 Every release comes with three programs (jars).
  - *Server* (The program running on one of the players computer)
  - *Client* (The program running on every players computer)
