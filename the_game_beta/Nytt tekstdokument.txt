@@ -1,0 +1,3 @@
+Distribution from 04.03.19
+
+Headless server, all characters probaly working.
