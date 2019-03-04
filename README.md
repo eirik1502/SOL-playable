@@ -8,6 +8,16 @@ You choose a character and use its unique abilities to eliminate your enemies an
 ## Getting Started
 
 ### Installing
+I just want the newest client (on windows):
+Open Powershell and paste the following (will save the client into a folder "sol_game" in your home directory)
+```
+$dirName = "sol_game"
+$clientName = "sol-client-SII.jar"
+$url = "https://github.com/eirik1502/SOL-playable/blob/master/the_game_beta/$clientName\?raw=true"
+$output = "~\$dirName\$clientName"
+mkdir $dirName
+Invoke-WebRequest -Uri $url -OutFile $output
+```
 
 Every release comes with three programs (jars).
  - *Server* (The program running on one of the players computer)
