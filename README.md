@@ -16,7 +16,7 @@ $dirName = "sol_game"
 $clientName = "sol-client-SII.jar"
 $url = "https://github.com/eirik1502/SOL-playable/blob/master/the_game_beta/$clientName\?raw=true"
 $output = "~\$dirName\$clientName"
-mkdir $dirName
+mkdir ~\$dirName
 Invoke-WebRequest -Uri $url -OutFile $output
 ```
 
